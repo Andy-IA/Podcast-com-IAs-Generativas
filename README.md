@@ -21,12 +21,20 @@ Uma vez definido o nome do podcast e o gênero, foi solicitado um roteiro estilo
 
 
 
-## Áudio Gravado e Editado
-O áudio foi gravado e editado utilizando a IA Elevenlabs. Confira o link do áudio:
+## Áudio Gravado
 
-Para acessar a pasta output e conferir o áudio, clique [aqui](link-do-audio).
+O áudio foi gravado atraves do Elevenlabs e posteriormente editado.
 
-[link do áudio]
+[Ouça o áudio do podcast](https://github.com/Andy-IA/Podcast-com-IAs-Generativas/blob/main/audio%20desafio%20podcast.m4a)
+
+## Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/)
+- [Copilot](https://copilot.microsoft.com/)
+- [MidJourney](https://www.midjourney.com/app/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+
+
 
 ## Agradecimento
 Agradeço a oportunidade de treinar as habilidades. As IAs fazem parecer fácil, porém a mente humana é essencial para o refinamento. 
